@@ -12,11 +12,6 @@ transactions — swaps, perpetual futures, prediction markets, staking, and liqu
 across EVM-compatible chains, while every transaction passes through a mandatory security pipeline.
 You keep custody of your keys and define the rules; the agent operates strictly within them.
 
-> ⚠️ **Early Access.** The product launched in a limited early-access program in June 2026, with
-> a broader public release planned for later in the summer. Details, commands, and supported
-> integrations below may change. Always confirm against the [official docs](https://metamask.io/agent-wallet).
-
----
 
 ## Why this exists
 
